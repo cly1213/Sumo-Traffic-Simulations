@@ -10,3 +10,4 @@ $ duarouter --net-file grid.net.xml --trip-files grid.trips.xml -o grid.rou.xml
 
 $ sumo-gui -c grid.sumocfg --no-internal-links
 ```
+Reference: https://zhuanlan.zhihu.com/p/43158189
